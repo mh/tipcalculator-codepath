@@ -1,6 +1,6 @@
 # Tip Calculator for CodePath
 
-This is the Tip Calculator for CodePath
+This is the Tip Calculator for the CodePath application. See the tutorial video for how to make your own [Tip Calculator in Swift](https://vimeo.com/102084767). Apply for the iOS for Designers CodePath course here: http://codepath.com/iosfordesigners.
 
 + Time Spent: 3.5 hours
 
@@ -17,5 +17,4 @@ This is the Tip Calculator for CodePath
 ## Walkthrough of user stories
 ![Video Walkthrough](tip-calculator-mh.gif)
 
-This app leverages two third-party libraries:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
